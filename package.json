@@ -1,0 +1,26 @@
+{
+  "name": "absurduid",
+  "version": "1.0.0",
+  "description": "Javascript function that generates a unique string based on the UNIX timestamp and the runtime.",
+  "main": "absurdUID.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TorstenDittmann/absurdUID.git"
+  },
+  "keywords": [
+    "guid",
+    "unique",
+    "identifier",
+    "database",
+    "generator"
+  ],
+  "author": "Torsten Dittmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TorstenDittmann/absurdUID/issues"
+  },
+  "homepage": "https://github.com/TorstenDittmann/absurdUID#readme"
+}
